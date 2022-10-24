@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "d3bb6424ee40a423",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a79c546b1a7550",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Key Pointers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7495ae6155f7814",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6efeb7e55310fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2757e8eaeb3f1a0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bf26b280fbbf30e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c31d8cc2a423beb2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5
+  },
+  "right": {
+    "id": "78b9ad671ef78856",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ae29e88378d9bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91dbc359cacc1251",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Key Pointers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fa76a75d0987b34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Key Pointers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bce6d22992aa4ea5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d9d3ccf26bf6088",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Key Pointers.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219,
+    "collapsed": true
+  },
+  "active": "2757e8eaeb3f1a0f",
+  "lastOpenFiles": [
+    "Chapter 8 - Crime & Incidence Scene Processing.md",
+    "Key Pointers.md",
+    "Chapter 5 - Evidence Processing.md",
+    "Chapter 1 - Intro to Forensics.md",
+    "2022-08-22.md",
+    "Chapter 11 - iOS Forensics.md",
+    "Chapter 9 - Celluar Mobile Networks.md",
+    "Chapter 6 - Analysis & Validation.md",
+    "Chapter 10 - Android Forensics.md",
+    "Chapter 4 - Forensic Tools.md"
+  ]
+}
