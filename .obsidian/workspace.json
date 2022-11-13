@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7736f22156e4e412",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ]
       }
@@ -136,13 +146,12 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "2ecbcc206b34d7c0",
   "lastOpenFiles": [
-    "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+    "DFI Notes/Chapter 4 - Forensic Tools.md",
+    "DFI Notes/Chapter 3 - Data Acquisition.md",
     "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
+    "SPIM Notes/Chapter 2 - Incident Management Framework.md",
     "Pasted image 20221024185559.png",
     "DFI Notes/Chapter 11 - iOS Forensics.md",
     "DFI Notes/Chapter 12 - Rooting and Jailbreaking.md",
