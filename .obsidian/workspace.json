@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "25c46011de5fbd0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e095ad80d83648b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ade92ae0611508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3200592aac913720",
+    "type": "split",
+    "children": [
+      {
+        "id": "5574e1f85868df57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd8164b71c8df5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aeab95738fb48723",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a56d63e109658651",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3bc2be3fb2a01931",
+    "type": "split",
+    "children": [
+      {
+        "id": "43aa275022794e22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb60d25dff92bcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ef5b2758f3938b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7869c5dd54819735",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff33fde7b8081774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "36ade92ae0611508",
+  "lastOpenFiles": [
+    "Pasted image 20221024185559.png",
+    "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+    "DFI Notes/Chapter 11 - iOS Forensics.md",
+    "DFI Notes/Chapter 12 - Rooting and Jailbreaking.md",
+    "DFI Notes/Key Pointers.md",
+    "DFI Notes/Chapter 1 - Intro to Forensics.md"
+  ]
+}
