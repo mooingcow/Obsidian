@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e095ad80d83648b3",
+        "id": "7d263e5d0bfe3c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "36ade92ae0611508",
+            "id": "2ecbcc206b34d7c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3bc2be3fb2a01931",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM Notes/Chapter 2 - Incident Management Framework.md"
+                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md"
               }
             }
           }
@@ -140,10 +139,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "36ade92ae0611508",
+  "active": "2ecbcc206b34d7c0",
   "lastOpenFiles": [
-    "Pasted image 20221024185559.png",
     "SPIM Notes/Chapter 2 - Incident Management Framework.md",
+    "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
+    "Pasted image 20221024185559.png",
     "DFI Notes/Chapter 11 - iOS Forensics.md",
     "DFI Notes/Chapter 12 - Rooting and Jailbreaking.md",
     "DFI Notes/Key Pointers.md",
