@@ -215,3 +215,9 @@ AD automatically create trusts between trees in a forest
 	- Command-line tool --> scwcmd
 - Security Configuration Database (SCD)
 	- A group of XML files that establish a security policy
+
+
+###### Kwan
+1. Scan current role
+2. Open required ports or close the rest of ports (Often firewall --> Predefined rules)
+3. Enable minimum services and disable the rest
