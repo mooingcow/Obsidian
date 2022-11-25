@@ -46,11 +46,11 @@ ___
 
 ###### Types of Groups
 - Local (aka Machine Local)
-- Domain local
-- Global
-- Universal
+- [[Chapter 3 - Account Manager & Managing Resource Access#Domain Local Groups|Domain Local]]
+- [[Chapter 3 - Account Manager & Managing Resource Access#Global Groups|Global]]
+- [[Chapter 3 - Account Manager & Managing Resource Access#Universal Groups|Universal]]
 
-- These groups can be used for security or distribution groups
+These groups can be used for security or distribution groups
 
 ###### Security Groups
 -  Used to enable access to resources on a stand-alone server or in Active Directory
