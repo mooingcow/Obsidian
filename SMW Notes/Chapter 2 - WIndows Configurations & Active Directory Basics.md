@@ -99,6 +99,7 @@ Common Roles:
 - To create a backup --> set a restore point 
 	- Use Checkpoint-Computer cmdlet in PowerShell
 - If registry is damaged, go back to the restore point
+---
 
 ## Active Directory (AD) 
 --- 

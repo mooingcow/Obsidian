@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3bc2be3fb2a01931",
