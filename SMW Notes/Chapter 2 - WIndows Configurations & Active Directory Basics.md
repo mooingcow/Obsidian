@@ -125,7 +125,7 @@ Common Roles:
 -  Runs Active Directory Domain Services (a role!)
 - Holds a copy of the AD database
 - Replicates changes with the DCs throughout the network to keep AD database up to date 
-	---> Multimaster Replication
+	---> Multimaster Replication ^684cdc
 	- To make replication more efficient:
 		- Replicate individual properties instead of entire accounts
 		- Replicate AD on the basis of speed of network link
