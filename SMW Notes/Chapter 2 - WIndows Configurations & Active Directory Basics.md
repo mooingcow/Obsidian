@@ -120,6 +120,7 @@ Common Roles:
 ###### Domains
 - Logical group that shares the same AD database
 - Share the same namespace 
+- [[Chapter 1 - Introduction to Windows Server 2016#Domain|Additional]] 
 
 ###### Domain Controller (DC)
 -  Runs Active Directory Domain Services (a role!)
