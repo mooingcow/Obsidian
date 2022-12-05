@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
+                "file": "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3bc2be3fb2a01931",
@@ -175,9 +176,9 @@
   "active": "0c16c861e6dbd05c",
   "lastOpenFiles": [
     "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
+    "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
     "SMW Notes/AGDLP.md",
-    "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
     "SPIM Notes/Chapter 2 - Incident Management Framework.md",
     "DFI Notes/Chapter 4 - Forensic Tools.md",
