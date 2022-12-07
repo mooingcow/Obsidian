@@ -71,9 +71,9 @@ ___
 2. Local DNS gives an immediate answer when:
 	- It is the authoritative server for that domain
 	- Local DNS has the required info from its cache
-3. Local DNS looks up the IP address of the correct **authoritative server** from one of the **root servers** (root servers addresses are built into DNS installation)
-4. Local DNS acts as a client to visit multiple authoritative DNS servers to get the final answer (aka **Iterative Lookup**) 
-5. Once the correct authoritative server is identified, Local DNS contacts the remote DNS directly and gets the required info
+3. Local DNS looks up the IP address of the TLD server from one of the **root servers** (root servers addresses are built into DNS installation)
+5. Local DNS acts as a client to visit multiple authoritative DNS servers to get the final answer (aka **Iterative Lookup**) 
+6. Once the correct **authoritative server** is identified, Local DNS contacts the remote DNS directly and gets the required info
 ---
 
 ## Additional DNS Server Roles

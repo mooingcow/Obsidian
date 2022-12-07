@@ -175,9 +175,14 @@
   },
   "active": "919d2fa6eb8359ab",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
     "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
+=======
+>>>>>>> Stashed changes
     "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
+    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
+    "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
     "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
     "SMW Notes/AGDLP.md",
     "SPIM Notes/Chapter 2 - Incident Management Framework.md",
