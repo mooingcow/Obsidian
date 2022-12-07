@@ -38,7 +38,7 @@ Common Roles:
 ## Sigverif
 ---
 - Verifies system and critical files to determine if they have a signature
-	- Only scans files fand does not overwrite inappropriate files 
+	- Only scans files and does not overwrite inappropriate files 
 		- Can be used while other users are logged on
 - Results output to a log file --> sigverif.txt
 - Files can be replaced when users are off the system

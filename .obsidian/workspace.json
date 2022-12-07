@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3bc2be3fb2a01931",
@@ -177,14 +176,14 @@
   "active": "919d2fa6eb8359ab",
   "lastOpenFiles": [
     "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
-    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
-    "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
     "SMW Notes/AGDLP.md",
+    "SMW Notes/SMW MST Division of Time.md",
+    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
+    "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
     "SPIM Notes/Chapter 2 - Incident Management Framework.md",
     "DFI Notes/Chapter 4 - Forensic Tools.md",
     "DFI Notes/Chapter 3 - Data Acquisition.md",
-    "Pasted image 20221024185559.png",
-    "DFI Notes/Chapter 11 - iOS Forensics.md"
+    "Pasted image 20221024185559.png"
   ]
 }

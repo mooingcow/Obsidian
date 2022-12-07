@@ -150,7 +150,7 @@ ___
 - DDOS with DNS Amplification Attack
 	- Bogus queries are sent to a DNS to trigger it to send high volume of replies to the targeted victim
 - Cache Poisoning
-	- The DNS cache / Stub Zone / Forwarder is comprised, causing the DNS to return incorrect IP addresses, diverting traffic to the attacker's computer (or any other computer).
+	- The DNS cache / Stub Zone / Forwarder is compromised, causing the DNS to return incorrect IP addresses, diverting traffic to the attacker's computer (or any other computer).
 - Registrar Hijacking
 	- aka Domain hijacking
 	- Changing the registration of a domain without the permission of its original registrant.
