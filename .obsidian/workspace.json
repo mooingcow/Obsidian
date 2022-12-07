@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3bc2be3fb2a01931",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
+                "file": "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
+                "file": "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md"
+                "file": "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md"
               }
             }
           }
@@ -173,13 +173,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c16c861e6dbd05c",
+  "active": "919d2fa6eb8359ab",
   "lastOpenFiles": [
     "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
+    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
     "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
     "SMW Notes/AGDLP.md",
-    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
     "SPIM Notes/Chapter 2 - Incident Management Framework.md",
     "DFI Notes/Chapter 4 - Forensic Tools.md",
     "DFI Notes/Chapter 3 - Data Acquisition.md",

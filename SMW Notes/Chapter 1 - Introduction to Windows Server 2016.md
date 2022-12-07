@@ -6,7 +6,7 @@ ___
 
 ###### Isolation and Resiliency 
 - Concept -> Split a computer into smaller separate pieces so if one piece is compromised/malfunctions, other entities in the system not affected
-- Implementation -> Firewall, Object level access control, etc.
+- Implementation -> Windows Firewall, Windows Defender, Object level access control, etc.
 
 ###### Updating
 - Concept -> Primary way to protect against security vulnerabilities
