@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3bc2be3fb2a01931",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
+                "file": "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
+                "file": "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md"
+                "file": "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md"
               }
             }
           }
@@ -173,17 +174,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "919d2fa6eb8359ab",
+  "active": "aaba9f7bbbd2d10c",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
     "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
-    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
-=======
->>>>>>> Stashed changes
     "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
-    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
-    "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
     "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
+    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
     "SMW Notes/AGDLP.md",
     "SPIM Notes/Chapter 2 - Incident Management Framework.md",
     "DFI Notes/Chapter 4 - Forensic Tools.md",
