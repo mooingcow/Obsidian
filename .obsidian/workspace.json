@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
+                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
+                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md"
+                "file": "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md"
               }
             }
           }
@@ -173,11 +174,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c16c861e6dbd05c",
+  "active": "1ed374289f161862",
   "lastOpenFiles": [
+    "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
     "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
     "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md",
-    "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
     "SMW Notes/Chapter 4 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/AGDLP.md",
     "SMW Notes/SMW MST Division of Time.md",
