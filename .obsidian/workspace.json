@@ -160,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bd8164b71c8df5a",
+  "active": "36b5a28b13bf3bc0",
   "lastOpenFiles": [
     "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
+    "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
     "SMW Notes/SMW MST Division of Time.md",
     "SMW Notes/Chapter 4.2 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/Chapter 4.1 - Deploying and Managing DNS & Group Policy.md",
@@ -170,7 +171,6 @@
     "SMW Notes/AGDLP.md",
     "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
     "SPIM Notes/Chapter 2 - Incident Management Framework.md",
-    "First Aid Notes/Choking.md",
-    "SMW Notes/Chapter 2 - WIndows Configurations & Active Directory Basics.md"
+    "First Aid Notes/Choking.md"
   ]
 }
