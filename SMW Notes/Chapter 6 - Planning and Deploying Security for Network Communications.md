@@ -113,9 +113,12 @@ ___
 	- Used to secure communications within a network and it can be server-to-server or server-to-client 
 	- IPsec provides end-to-end security
 	- If IPsec protection caters for systems within a LAN
+	- Only protects the data portion of the IP packet and leaves the original IP header untouched
 - Tunnel:
 	- Used to secure communications between networks
 		- E.g. Between two gateways 
+	- Entire IP packet is encapsulated within a new IP packet, with a new IP header added to the front of the packet
+		- The original IP packet becomes the payload of the new packet, and the entire packet, including the original IP header, is protected by IPSec
 	- Primarily used for interoperability with gateways or end systems that do not support L2TP/IPsec or PPTP VPN site-to-site connections
 	- If IPsec protection involves WAN 
 

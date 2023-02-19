@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54549cbb3ce37249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 249
   },
   "right": {
     "id": "3bc2be3fb2a01931",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md"
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md"
               }
             }
           }
@@ -160,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36b5a28b13bf3bc0",
+  "active": "54549cbb3ce37249",
   "lastOpenFiles": [
-    "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
     "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
+    "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
+    "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
     "SMW Notes/SMW MST Division of Time.md",
     "SMW Notes/Chapter 4.2 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/Chapter 4.1 - Deploying and Managing DNS & Group Policy.md",
     "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
     "SMW Notes/AGDLP.md",
     "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
-    "SPIM Notes/Chapter 2 - Incident Management Framework.md",
-    "First Aid Notes/Choking.md"
+    "SPIM Notes/Chapter 2 - Incident Management Framework.md"
   ]
 }
