@@ -194,15 +194,15 @@
   },
   "active": "9c8be069034ef681",
   "lastOpenFiles": [
-    "SMW Notes/SMW MST Division of Time.md",
-    "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
     "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
-    "SC Notes/SC Exam Cheat Sheet.md",
     "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
-    "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
-    "SC Notes/SC Topic 3 -  XSS.md",
-    "SC Notes/SC Topic 4 - SQL Injection.md",
-    "SC Notes/SC Topic 9 - CSRF.md",
-    "SC Notes/SC Topic 8  - Authentication and Authorization.md"
+    "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+    "SC/SC Topic 9 - CSRF.md",
+    "SC/SC Topic 8  - Authentication and Authorization.md",
+    "SC/SC Topic 7 - Preventing SQL Injections.md",
+    "SC/SC Topic 6 - XSS Prevention.md",
+    "SC/SC Topic 5 - Logging.md",
+    "SC/SC Exam Cheat Sheet.md",
+    "SC Notes/SC MST Cheat Sheet.md"
   ]
 }
