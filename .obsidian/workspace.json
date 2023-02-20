@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8780260208512d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kerberos & NTLM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 249,
+    "collapsed": true
   },
   "right": {
     "id": "3bc2be3fb2a01931",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+                "file": "Kerberos & NTLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+                "file": "Kerberos & NTLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md"
+                "file": "Kerberos & NTLM.md"
               }
             }
           },
@@ -192,17 +205,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c8be069034ef681",
+  "active": "8780260208512d1b",
   "lastOpenFiles": [
-    "SMW Notes/SMW MST Division of Time.md",
+    "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
+    "Kerberos & NTLM.md",
     "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+    "Untitled 1.md",
+    "SMW Notes/SMW MST Division of Time.md",
     "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
     "SC Notes/SC Exam Cheat Sheet.md",
     "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
-    "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
     "SC Notes/SC Topic 3 -  XSS.md",
-    "SC Notes/SC Topic 4 - SQL Injection.md",
-    "SC Notes/SC Topic 9 - CSRF.md",
-    "SC Notes/SC Topic 8  - Authentication and Authorization.md"
+    "SC Notes/SC Topic 4 - SQL Injection.md"
   ]
 }
