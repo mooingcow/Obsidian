@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "36b5a28b13bf3bc0",
+            "id": "1e487eae7d02393b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "54549cbb3ce37249",
+            "id": "5fe93176974aec1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c8be069034ef681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
+                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
+                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +162,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md"
+                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md"
               }
             }
+          },
+          {
+            "id": "83da4b6eb90a4832",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,20 +188,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54549cbb3ce37249",
+  "active": "9c8be069034ef681",
   "lastOpenFiles": [
+    "SMW Notes/SMW MST Division of Time.md",
+    "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+    "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
+    "SC Notes/SC Exam Cheat Sheet.md",
     "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
     "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
-    "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
-    "SMW Notes/SMW MST Division of Time.md",
-    "SMW Notes/Chapter 4.2 - Deploying and Managing DNS & Group Policy.md",
-    "SMW Notes/Chapter 4.1 - Deploying and Managing DNS & Group Policy.md",
-    "SMW Notes/Chapter 3 - Account Manager & Managing Resource Access.md",
-    "SMW Notes/AGDLP.md",
-    "SMW Notes/Chapter 1 - Introduction to Windows Server 2016.md",
-    "SPIM Notes/Chapter 2 - Incident Management Framework.md"
+    "SC Notes/SC Topic 3 -  XSS.md",
+    "SC Notes/SC Topic 4 - SQL Injection.md",
+    "SC Notes/SC Topic 9 - CSRF.md",
+    "SC Notes/SC Topic 8  - Authentication and Authorization.md"
   ]
 }

@@ -284,3 +284,4 @@ ___
 	- Amount of administrative effort that you are willing to devote to certificate renewal and CA renewal
 	- Business value of the certificate
 ![](https://i.imgur.com/L3qU2AF.png)
+---

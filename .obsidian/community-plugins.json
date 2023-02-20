@@ -1,5 +1,9 @@
 [
   "obsidian-discordrpc",
   "obsidian-hover-editor",
-  "obsidian-imgur-plugin"
+  "obsidian-imgur-plugin",
+  "table-editor-obsidian",
+  "obsidian-dynamic-toc",
+  "highlightr-plugin",
+  "obsidian-underline"
 ]
