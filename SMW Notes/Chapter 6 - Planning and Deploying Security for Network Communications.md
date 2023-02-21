@@ -114,6 +114,8 @@ ___
 	- IPsec provides end-to-end security
 	- If IPsec protection caters for systems within a LAN
 	- Only protects the data portion of the IP packet and leaves the original IP header untouched
+	- AH: ![](https://i.imgur.com/UhvdHHf.png)
+	- ESP: ![](https://i.imgur.com/66sKT19.png)
 - Tunnel:
 	- Used to secure communications between networks
 		- E.g. Between two gateways 
@@ -121,6 +123,8 @@ ___
 		- The original IP packet becomes the payload of the new packet, and the entire packet, including the original IP header, is protected by IPSec
 	- Primarily used for interoperability with gateways or end systems that do not support L2TP/IPsec or PPTP VPN site-to-site connections
 	- If IPsec protection involves WAN 
+	- AH: ![](https://i.imgur.com/1IPc3OA.png)
+	- ESP: ![](https://i.imgur.com/ckxc7Q1.png)
 
 ###### Filter List
 - IPsec filter is a specification in the IPsec rule that is used to match IP packets

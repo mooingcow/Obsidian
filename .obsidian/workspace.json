@@ -1,35 +1,88 @@
 {
   "main": {
-    "id": "3440a832e5a78ce6",
+    "id": "ebc7c1b8543ce71c",
     "type": "split",
     "children": [
       {
-        "id": "86fcda567572deff",
+        "id": "bbccb6484010949f",
         "type": "tabs",
         "children": [
           {
-            "id": "f4089cdfea6b942b",
+            "id": "13bd816126d40478",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SMW Notes/Chapter 4.2 - Deploying and Managing DNS & Group Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f8bcd95c0be1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a73bd73b1afe2d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "057056564ba6a782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "694d829d3e8b2d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4ea26b8fd2709442",
+    "id": "24ad61019278db05",
     "type": "split",
     "children": [
       {
-        "id": "f739187eafd1fdd7",
+        "id": "febbbabe14fe092f",
         "type": "tabs",
         "children": [
           {
-            "id": "a9898249fdaaf9a9",
+            "id": "11bdd313d4144294",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +92,7 @@
             }
           },
           {
-            "id": "5dab89c3f5103f1b",
+            "id": "8bba54ac15813cc3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +107,7 @@
             }
           },
           {
-            "id": "f7766ee84b016ccc",
+            "id": "c880774c32488d28",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +118,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "c63bac9228df3f1c",
+    "id": "86045b7bcffd6f93",
     "type": "split",
     "children": [
       {
-        "id": "437737b5fe6477f6",
+        "id": "bc9e09381bc0f406",
         "type": "tabs",
         "children": [
           {
-            "id": "8f01ea40826ecade",
+            "id": "a93c63747e6b0bc3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +147,19 @@
             }
           },
           {
-            "id": "38b0c1454ba62a7e",
+            "id": "d041ddefaa8d2b43",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cb1a85db2b66405b",
+            "id": "743e3427c8345c6d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,14 +170,25 @@
             }
           },
           {
-            "id": "615b01d01be94162",
+            "id": "7cf60c8ad9b09d4c",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md"
+              }
+            }
+          },
+          {
+            "id": "22d8077b5da0384f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,6 +206,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4089cdfea6b942b",
-  "lastOpenFiles": []
+  "active": "057056564ba6a782",
+  "lastOpenFiles": [
+    "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
+    "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
+    "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
+    "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
+    "SMW Notes/Chapter 4.2 - Deploying and Managing DNS & Group Policy.md",
+    "SC/SC Topic 7 - Preventing SQL Injections.md",
+    "SC/SC Topic 6 - XSS Prevention.md",
+    "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 9 - CSRF.md",
+    "SC/SC Topic 8  - Authentication and Authorization.md"
+  ]
 }
