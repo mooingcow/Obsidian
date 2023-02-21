@@ -1,140 +1,35 @@
 {
   "main": {
-    "id": "25c46011de5fbd0a",
+    "id": "3440a832e5a78ce6",
     "type": "split",
     "children": [
       {
-        "id": "2196bba160b05bba",
+        "id": "86fcda567572deff",
         "type": "tabs",
         "children": [
           {
-<<<<<<< Updated upstream
-            "id": "6976c99045930a3b",
+            "id": "f4089cdfea6b942b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW Notes/Chapter 4.2 - Deploying and Managing DNS & Group Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f7e5a3335d974ae",
-=======
-            "id": "0953c77af94a8475",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a4c03a9169f9b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 5 - Logging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98908817cf20e1fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e81ad6cafc3c6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "e6ccc339cfb921f8",
-=======
-            "id": "8a2e0e38ba69e1b2",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "SMW Notes/Kerberos & NTLM.md",
-=======
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1d4b1769fac7b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c96fc87bc51e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-<<<<<<< Updated upstream
-        "currentTab": 1
-=======
-        "currentTab": 3
->>>>>>> Stashed changes
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3200592aac913720",
+    "id": "4ea26b8fd2709442",
     "type": "split",
     "children": [
       {
-        "id": "5574e1f85868df57",
+        "id": "f739187eafd1fdd7",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd8164b71c8df5a",
+            "id": "a9898249fdaaf9a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -144,7 +39,7 @@
             }
           },
           {
-            "id": "aeab95738fb48723",
+            "id": "5dab89c3f5103f1b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -159,7 +54,7 @@
             }
           },
           {
-            "id": "a56d63e109658651",
+            "id": "f7766ee84b016ccc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -170,27 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 300
   },
   "right": {
-    "id": "3bc2be3fb2a01931",
+    "id": "c63bac9228df3f1c",
     "type": "split",
     "children": [
       {
-        "id": "43aa275022794e22",
+        "id": "437737b5fe6477f6",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb60d25dff92bcc",
+            "id": "8f01ea40826ecade",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
-=======
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,23 +92,18 @@
             }
           },
           {
-            "id": "7ef5b2758f3938b0",
+            "id": "38b0c1454ba62a7e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md",
-=======
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7869c5dd54819735",
+            "id": "cb1a85db2b66405b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -229,29 +114,14 @@
             }
           },
           {
-            "id": "ff33fde7b8081774",
+            "id": "615b01d01be94162",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md"
-=======
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md"
->>>>>>> Stashed changes
-              }
-            }
-          },
-          {
-            "id": "83da4b6eb90a4832",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,40 +130,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "3f7e5a3335d974ae",
-  "lastOpenFiles": [
-    "SMW Notes/Chapter 6 - Planning and Deploying Security for Network Communications.md",
-    "SMW Notes/Chapter 4.2 - Deploying and Managing DNS & Group Policy.md",
-    "SMW Notes/Kerberos & NTLM.md",
-    "SMW Notes/Chapter 7 - Planning and Deploying Public Key Infrastructure and Secured Web Content Access Services.md",
-    "SMW Notes/Chapter 8 - Configuring Remote Access Services.md",
-    "SC/SC Topic 8  - Authentication and Authorization.md",
-    "SC/SC Exam Cheat Sheet.md",
-    "SC/SC MST Cheat Sheet.md",
-    "SC/SC Topic 5 - Logging.md",
-=======
-  "active": "2e81ad6cafc3c6eb",
-  "lastOpenFiles": [
-    "SC/SC Topic 6 - XSS Prevention.md",
-    "SC/SC Topic 5 - Logging.md",
-    "SC/SC Topic 9 - CSRF.md",
-    "SC/SC Exam Cheat Sheet.md",
-    "SC/SC Topic 7 - Preventing SQL Injections.md",
-    "SC/SC Topic 8  - Authentication and Authorization.md",
-    "SC/SC Topic 4 - SQL Injection.md",
-    "SC/SC Topic 3 -  XSS.md",
-    "Kerberos & NTLM.md",
->>>>>>> Stashed changes
-    "SMW Notes/Chapter 5 - Planning and Deploying Patch Management.md"
-  ]
+  "active": "f4089cdfea6b942b",
+  "lastOpenFiles": []
 }
